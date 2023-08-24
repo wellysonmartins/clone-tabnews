@@ -1,2 +1,2 @@
 # clone-tabnews
-Projeto para consolidar aprendizado do curso.dev
+Projeto para consolidar aprendizado do https://curso.dev/
