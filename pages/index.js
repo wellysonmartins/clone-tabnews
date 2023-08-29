@@ -15,7 +15,7 @@ const RomanticPhrasesComponent = () => {
     "Você é a razão do meu sorriso constante.",
   ]);
 
-  const [currentPhrase, setCurrentPhrase] = useState('');
+  const [currentPhrase, setCurrentPhrase] = useState('Você é a razão do meu sorriso constante.');
 
   const updatePhrase = () => {
     const randomPhrase = phrases[Math.floor(Math.random() * phrases.length)];
